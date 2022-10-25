@@ -1,5 +1,6 @@
 .App{
   background-color: rgba(0, 0, 0, 0.85);
+  margin: 0;
 }
 .MuiTabs-indicatorSpan{
   background-color: red;
