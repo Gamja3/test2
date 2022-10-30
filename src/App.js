@@ -76,6 +76,7 @@ function App() {
   return (
     <div className="App">
       <CustomizedTabs />
+      <CustomizedTabs />
     </div>
   );
 }
