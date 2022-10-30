@@ -9,7 +9,7 @@ import Box from "@mui/material/Box";
 const AntTabs = styled(Tabs)({
   borderBottom: "2px solid #e8e8e8",
   "& .MuiTabs-indicator": {
-    backgroundColor: "#e8e8e8",
+    backgroundColor: "#fff",
   },
 });
 
@@ -76,6 +76,7 @@ function App() {
   return (
     <div className="App">
       <CustomizedTabs />
+      <div>테스트 머지</div>
     </div>
   );
 }
