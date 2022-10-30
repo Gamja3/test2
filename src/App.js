@@ -76,6 +76,7 @@ function App() {
   return (
     <div className="App">
       <CustomizedTabs />
+      <CustomizedTabs />
       <div>테스트 머지2 메인 test3333</div>
     </div>
   );
